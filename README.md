@@ -13,4 +13,4 @@
 ## Want to try it ? 
 ### here you go : 
 
-* [GET] http://198.50.174.120/allMovies
+* [GET] http://198.50.174.120:4567/allMovies
